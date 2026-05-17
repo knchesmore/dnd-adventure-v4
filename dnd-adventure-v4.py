@@ -10,7 +10,7 @@ import http.server, json, os, pathlib, random, re, threading, time, urllib.reque
 from http import HTTPStatus
 
 PORT    = 8080
-VERSION = "4.0"
+VERSION = "4.1"
 
 # =============================================================================
 # AUTO-UPDATE SYSTEM
